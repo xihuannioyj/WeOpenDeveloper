@@ -21,7 +21,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "ext-openssl": "*",
-    "zoujingli/wechat-developer": "^1.0"
+    "zoujingli/wechat-developer": "dev-master"
   },
   "autoload": {
     "psr-4": {
